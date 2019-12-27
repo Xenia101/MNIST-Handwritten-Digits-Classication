@@ -1,4 +1,4 @@
-# Simple MNIST Handwritten Digits Classication
+# A Simple MNIST Handwritten Digits Classication
 
 MNIST 데이터셋을 이용한 손 글씨(숫자) 판별
 

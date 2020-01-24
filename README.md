@@ -18,7 +18,7 @@ distance = tf.reduce_sum(tf.abs(tf.add(train_pixel_tensor,tf.negative(test_pixel
   - Python3.x
   
 ## 사용 방법
-- Input : "./mnist_data"
+- Input : ```./mnist_data```
 
   `python3 Digits Classication.py`
 

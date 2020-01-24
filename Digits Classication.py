@@ -4,9 +4,9 @@ import tensorflow as tf
 
 mnist = input_data.read_data_sets("./mnist_data", one_hot=True)
 
-# 학습할 데이터의 수
+# number of train data
 n_train_data = 100
-# 테스트할 데이터의 수
+# number of test data
 n_test_data = 10
 
 train_pixels,train_list_values = mnist.train.next_batch(n_train_data) 

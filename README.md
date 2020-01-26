@@ -1,6 +1,6 @@
 # A Simple MNIST Handwritten Digits Classication
 
-MNIST 데이터셋을 이용한 손 글씨(숫자) 판별
+Handwriting Identification Using MNIST Dataset
 
 ```python
 train_pixels,train_list_values = mnist.train.next_batch(n_train_data) 

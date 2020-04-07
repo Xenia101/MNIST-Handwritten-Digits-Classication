@@ -1,6 +1,6 @@
 # A Simple MNIST Handwritten Digits Classication
 
-Handwriting Identification Using MNIST Dataset
+Handwriting Identification Using **MNIST Dataset**
 
 ```python
 train_pixels,train_list_values = mnist.train.next_batch(n_train_data) 
